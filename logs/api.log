@@ -1,0 +1,9 @@
+14-12-2022 21:19:08.806 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+14-12-2022 21:19:08.808 [Gauge] [INFO] Initializing specs cache with 1 specs
+14-12-2022 21:19:08.808 [Gauge] [DEBUG] Adding specs from C:\Users\mmete\IdeaProjects\gaugeAutomationExersize\specs\example.spec
+14-12-2022 21:19:08.808 [Gauge] [INFO] Initializing steps cache with 1 steps
+14-12-2022 21:19:08.808 [Gauge] [INFO] Gauge daemon initialized and listening on port: 52453
+14-12-2022 21:19:08.809 [Gauge] [DEBUG] Watching directory: C:\Users\mmete\IdeaProjects\gaugeAutomationExersize\specs
+14-12-2022 21:19:08.809 [Gauge] [DEBUG] Found 1 files
+14-12-2022 21:19:09.283 [Gauge] [DEBUG] Api Request Received: messageType:GetLanguagePluginLibPathRequest  messageId:5  libPathRequest:{language:"java"}
+14-12-2022 21:19:09.283 [Gauge] [DEBUG] Sending API response: messageType:GetLanguagePluginLibPathResponse  messageId:5  libPathResponse:{path:"C:\\Users\\mmete\\AppData\\Roaming\\gauge\\plugins\\java\\0.9.1\\libs"}
